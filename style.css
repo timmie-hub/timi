@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    color: #e0ffff;
+    font-family: Arial, Helvetica, sans-serif;  
+    background-image: url(./images/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    } 
+
+.head{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.main{
+    display: inline;
+    text-justify: initial;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+
+.article{
+    display:grid;
+    justify-content: center;
+}
