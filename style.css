@@ -5,6 +5,7 @@
     outline: none;
     color: #e0ffff;
     font-family: Arial, Helvetica, sans-serif;  
+    background-color:#efffff; 
     background-image: url(./images/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -28,4 +29,5 @@
 .article{
     display:grid;
     justify-content: center;
+    padding-left: 1rem;
 }
